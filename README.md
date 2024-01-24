@@ -47,3 +47,8 @@ Flask:
 4. Running by 'flask run'
 5. Copy the HTTP of the website 
 6. Welcome to our web search engine!
+
+# Snapshot of the Search System:
+![image](https://github.com/qndska/Elasticsearch_haikyucharactors/assets/106175374/95c843ea-3ec5-473e-836e-7b4d92e5075d)
+![image](https://github.com/qndska/Elasticsearch_haikyucharactors/assets/106175374/1fb52d42-4991-4bc0-8f64-07c44c0cd9aa)
+
