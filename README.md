@@ -1,10 +1,9 @@
-#README file
-Subject: ITCS414 Information Retrieval and Storage
+# ITCS414 Information Retrieval and Storage
 Members:6488052 Sasasuang  Pattanakitjaroenchai 
 6488061 Chaninan  Phetpangun 
 6488226 Nisakorn Ngaosri
 
-#Objective
+# Objective
 The README file is to facilitate the setup and deployment of our web search system using Elasticsearch, Kibana, and Flask.  
 Before starting, ensure that you already installed these devices into your system:
 1. Elasticsearch
@@ -12,8 +11,8 @@ Before starting, ensure that you already installed these devices into your syste
 3. Python
 NOTE: You should install devices into Disk D to prevent errors.
                          
-#Compilation and running
-#Elasticsearch:
+# Compilation and running
+# Elasticsearch:
 1. Extract the zip file.
 2. Open elasticsearch-8.10.2-windows-x86_64\elasticsearch-8.10.2\bin
    or Open Windows Powershell then use the 'cd' command to navigate the Windows Powershell to the directory where elasticsearch.bat file.
