@@ -12,7 +12,7 @@ Before starting, ensure that you already installed these devices into your syste
 NOTE: You should install devices into Disk D to prevent errors.
                          
 # Compilation and running
-# Elasticsearch:
+Elasticsearch:
 1. Extract the zip file.
 2. Open elasticsearch-8.10.2-windows-x86_64\elasticsearch-8.10.2\bin
    or Open Windows Powershell then use the 'cd' command to navigate the Windows Powershell to the directory where elasticsearch.bat file.
